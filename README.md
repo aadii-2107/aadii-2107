@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Java Full Stack & Data Structures and Algorithms (DSA)**
 
-- 🌱 I’m currently learning **Spring Boot and Flutter**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 🎨 Hobbies & Interests
     [ 🎨 Graphic Designing
