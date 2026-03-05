@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **aditya.govekar2018@gmail.com**
 
-- ⚡ Fun fact **Fun Fact: I enjoy breaking my own code — just to rebuild it better.**
+- ⚡**Fun Fact: I enjoy breaking my own code — just to rebuild it better.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
